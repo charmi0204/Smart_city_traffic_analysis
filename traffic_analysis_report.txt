@@ -1,0 +1,16 @@
+
+SMART CITY TRAFFIC ANALYSIS REPORT
+
+Total records analyzed: 3600
+
+Peak traffic hour:
+18:00
+
+Highest traffic location:
+Highway
+
+Highest average traffic:
+213.48
+vehicles per hour per location observation.
+
+Analysis completed successfully.
